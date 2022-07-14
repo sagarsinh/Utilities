@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\bin\Debug\SimpleEmailClient.exe.config
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\bin\Debug\SimpleEmailClient.exe
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\bin\Debug\SimpleEmailClient.pdb
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\obj\Debug\SimpleEmailClient_MarkupCompile.cache
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\obj\Debug\SimpleEmailClient_MarkupCompile.lref
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\obj\Debug\MainWindow.baml
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\obj\Debug\SimpleEmailClient.g.resources
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\obj\Debug\SimpleEmailClient.Properties.Resources.resources
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\obj\Debug\SimpleEmailClient.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\obj\Debug\SimpleEmailClient.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\obj\Debug\SimpleEmailClient.exe
+C:\Users\Dell\source\repos\SimpleEmailClient\SimpleEmailClient\obj\Debug\SimpleEmailClient.pdb
